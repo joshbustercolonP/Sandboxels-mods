@@ -1,6 +1,6 @@
-elements.slate = {
-    color: "#808080",
-    behavior: behaviors.SOLID,
-    category: "Solids",
-    state: "solid"
+elements.Slate = {
+    color: "#ffffff", // Hex color code
+    behavior: behaviors.SOLID, // Behaviors: WALL, POWDER, SOLID
+    category: "Solids", // Category: "land", "liquids", etc.
+    state: "solid", // MUST be "solid"
 };
